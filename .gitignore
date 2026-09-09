@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+mlruns/
+mlartifacts/
+chroma_db/
+*.log
+.DS_Store
+.ipynb_checkpoints/

@@ -1,0 +1,31 @@
+# Forecasting
+prophet
+scikit-learn
+pandas
+numpy
+
+# MLOps
+mlflow
+
+# Agentic AI
+langgraph
+langchain
+langchain-community
+langchain-ollama
+
+# Vector store
+chromadb
+sentence-transformers
+
+# LLM evaluation
+ragas
+datasets
+
+# API
+fastapi
+uvicorn[standard]
+httpx
+
+# Utilities
+python-dotenv
+pydantic
