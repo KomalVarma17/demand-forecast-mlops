@@ -1,0 +1,7 @@
+event_id: EVT_027
+sku_id: SKU_004
+date: 2024-12-24
+cause_category: promotion
+type: spike
+
+On 2024-12-24, SKU_004 saw an increase of roughly 55% in daily demand tied to a promotional event. Christmas Eve grocery rush drove a single-day spike. Promotions like this are planned by the marketing team and typically produce a short, sharp change in orders that fades once the offer ends.

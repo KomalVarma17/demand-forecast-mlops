@@ -1,0 +1,7 @@
+event_id: EVT_022
+sku_id: SKU_008
+date: 2024-09-23
+cause_category: viral_social
+type: spike
+
+On 2024-09-23, SKU_008 saw an increase of around 70% in demand following a burst of social media attention. A celebrity was photographed wearing the item, spiking search and orders. This kind of organic virality is difficult to predict in advance and can fade as quickly as it appears.

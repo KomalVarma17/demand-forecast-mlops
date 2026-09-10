@@ -1,0 +1,7 @@
+event_id: EVT_018
+sku_id: SKU_015
+date: 2024-05-10
+cause_category: press_coverage
+type: spike
+
+On 2024-05-10, SKU_015 recorded an increase of about 85% in demand after receiving media or press coverage. A celebrity endorsement post drove a two-day surge in demand. Coverage-driven demand usually spikes around the publication date and normalizes within a few days.

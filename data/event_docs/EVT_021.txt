@@ -1,0 +1,7 @@
+event_id: EVT_021
+sku_id: SKU_013
+date: 2024-08-15
+cause_category: supply_chain
+type: dip
+
+On 2024-08-15, SKU_013 saw a decrease of roughly 45% in demand caused by a supply chain disruption. A key raw-material supplier fell behind on deliveries, constraining production. These events reflect upstream constraints rather than a shift in customer demand itself.

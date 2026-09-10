@@ -1,0 +1,7 @@
+event_id: EVT_008
+sku_id: SKU_005
+date: 2023-09-11
+cause_category: weather
+type: spike
+
+On 2023-09-11, SKU_005 experienced an increase of about 80% in demand linked to weather conditions. Hurricane warning triggered stockpiling of shelf-stable groceries. Weather-driven changes are typically regional and correlate with forecasts issued in the days prior.

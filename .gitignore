@@ -4,6 +4,7 @@ __pycache__/
 .env
 mlruns/
 mlartifacts/
+mlflow.db
 chroma_db/
 *.log
 .DS_Store
