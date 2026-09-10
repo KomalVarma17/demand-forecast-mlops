@@ -1,0 +1,7 @@
+event_id: EVT_006
+sku_id: SKU_002
+date: 2023-07-19
+cause_category: promotion
+type: spike
+
+On 2023-07-19, SKU_002 saw an increase of roughly 70% in daily demand tied to a promotional event. Mid-summer clearance event boosted orders for two days. Promotions like this are planned by the marketing team and typically produce a short, sharp change in orders that fades once the offer ends.

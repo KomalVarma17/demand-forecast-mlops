@@ -1,0 +1,7 @@
+event_id: EVT_013
+sku_id: SKU_004
+date: 2023-12-23
+cause_category: promotion
+type: spike
+
+On 2023-12-23, SKU_004 saw an increase of roughly 50% in daily demand tied to a promotional event. Pre-Christmas grocery rush as shoppers stocked up for holiday gatherings. Promotions like this are planned by the marketing team and typically produce a short, sharp change in orders that fades once the offer ends.
