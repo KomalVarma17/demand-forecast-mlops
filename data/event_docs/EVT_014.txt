@@ -3,5 +3,6 @@ sku_id: SKU_009
 date: 2024-01-08
 cause_category: competitor
 type: dip
+duration_days: 4
 
 On 2024-01-08, SKU_009 recorded a decrease of about 30% in demand tied to competitor activity. A competitor launched an aggressive price cut on a near-identical product. Competitive pressure can cause sustained rather than one-day shifts if the rival offer remains in place.

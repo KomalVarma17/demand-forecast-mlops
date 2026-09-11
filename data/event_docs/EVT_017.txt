@@ -3,5 +3,6 @@ sku_id: SKU_006
 date: 2024-04-02
 cause_category: stockout
 type: dip
+duration_days: 5
 
 On 2024-04-02, SKU_006 experienced a decrease of about 55% in recorded demand due to a stockout. A fire at a regional distribution center halted shipments for nearly a week. Because units were not available to sell, the drop reflects fulfillment capacity rather than a change in underlying customer interest.

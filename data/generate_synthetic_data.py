@@ -53,7 +53,7 @@ EVENTS = [
     {"event_id": "EVT_010", "sku_id": "SKU_014", "date": "2023-10-31", "duration_days": 1, "type": "spike", "magnitude_pct": 60, "cause_category": "promotion", "description": "Halloween-themed makeup bundle sold out its promotional run in a single day."},
     {"event_id": "EVT_011", "sku_id": "SKU_001", "date": "2023-11-24", "duration_days": 1, "type": "spike", "magnitude_pct": 120, "cause_category": "promotion", "description": "Black Friday doorbuster pricing drove the year's largest single-day spike."},
     {"event_id": "EVT_012", "sku_id": "SKU_007", "date": "2023-11-24", "duration_days": 1, "type": "spike", "magnitude_pct": 100, "cause_category": "promotion", "description": "Black Friday doorbuster pricing drove a large single-day spike."},
-    {"event_id": "EVT_013", "sku_id": "SKU_004", "date": "2023-12-23", "duration_days": 2, "type": "spike", "magnitude_pct": 50, "cause_category": "promotion", "description": "Pre-Christmas grocery rush as shoppers stocked up for holiday gatherings."},
+    {"event_id": "EVT_013", "sku_id": "SKU_004", "date": "2023-12-23", "duration_days": 2, "type": "spike", "magnitude_pct": 50, "cause_category": "seasonal_rush", "description": "Pre-Christmas grocery rush as shoppers stocked up for holiday gatherings."},
     {"event_id": "EVT_014", "sku_id": "SKU_009", "date": "2024-01-08", "duration_days": 4, "type": "dip", "magnitude_pct": 30, "cause_category": "competitor", "description": "A competitor launched an aggressive price cut on a near-identical product."},
     {"event_id": "EVT_015", "sku_id": "SKU_012", "date": "2024-02-20", "duration_days": 2, "type": "spike", "magnitude_pct": 75, "cause_category": "viral_social", "description": "A viral home-organization trend on social media pulled in new buyers."},
     {"event_id": "EVT_016", "sku_id": "SKU_003", "date": "2024-03-14", "duration_days": 3, "type": "dip", "magnitude_pct": 40, "cause_category": "quality_issue", "description": "A firmware bug caused a wave of negative reviews and a drop in new orders."},
@@ -67,7 +67,7 @@ EVENTS = [
     {"event_id": "EVT_024", "sku_id": "SKU_001", "date": "2024-11-29", "duration_days": 1, "type": "spike", "magnitude_pct": 115, "cause_category": "promotion", "description": "Black Friday doorbuster pricing again drove the year's largest single-day spike."},
     {"event_id": "EVT_025", "sku_id": "SKU_007", "date": "2024-11-29", "duration_days": 1, "type": "spike", "magnitude_pct": 95, "cause_category": "promotion", "description": "Black Friday doorbuster pricing drove a large single-day spike."},
     {"event_id": "EVT_026", "sku_id": "SKU_011", "date": "2024-12-15", "duration_days": 3, "type": "dip", "magnitude_pct": 65, "cause_category": "quality_issue", "description": "A safety recall was issued after a small number of units failed inspection."},
-    {"event_id": "EVT_027", "sku_id": "SKU_004", "date": "2024-12-24", "duration_days": 1, "type": "spike", "magnitude_pct": 55, "cause_category": "promotion", "description": "Christmas Eve grocery rush drove a single-day spike."},
+    {"event_id": "EVT_027", "sku_id": "SKU_004", "date": "2024-12-24", "duration_days": 1, "type": "spike", "magnitude_pct": 55, "cause_category": "seasonal_rush", "description": "Christmas Eve grocery rush drove a single-day spike."},
 ]
 
 

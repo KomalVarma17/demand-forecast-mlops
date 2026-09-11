@@ -3,5 +3,6 @@ sku_id: SKU_003
 date: 2024-03-14
 cause_category: quality_issue
 type: dip
+duration_days: 3
 
 On 2024-03-14, SKU_003 saw a decrease of roughly 40% in demand following a product quality issue. A firmware bug caused a wave of negative reviews and a drop in new orders. Quality-related dips can persist longer than other anomalies if customer trust takes time to recover.

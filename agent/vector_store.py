@@ -30,6 +30,7 @@ def get_collection():
 def parse_event_doc(path: Path) -> dict:
     header, _, body = path.read_text().partition("\n\n")
     metadata = dict(line.split(": ", 1) for line in header.splitlines())
+    metadata["duration_days"] = int(metadata["duration_days"])
     return {**metadata, "text": body.strip()}
 
 
@@ -41,7 +42,13 @@ def ingest():
         ids=[d["event_id"] for d in docs],
         documents=[d["text"] for d in docs],
         metadatas=[
-            {"sku_id": d["sku_id"], "date": d["date"], "cause_category": d["cause_category"], "type": d["type"]}
+            {
+                "sku_id": d["sku_id"],
+                "date": d["date"],
+                "cause_category": d["cause_category"],
+                "type": d["type"],
+                "duration_days": d["duration_days"],
+            }
             for d in docs
         ],
     )
