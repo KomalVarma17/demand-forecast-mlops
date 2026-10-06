@@ -3,5 +3,6 @@ sku_id: SKU_011
 date: 2023-10-05
 cause_category: supply_chain
 type: dip
+duration_days: 5
 
 On 2023-10-05, SKU_011 saw a decrease of roughly 40% in demand caused by a supply chain disruption. Shipping container delays at the port pushed back restocking by nearly a week. These events reflect upstream constraints rather than a shift in customer demand itself.

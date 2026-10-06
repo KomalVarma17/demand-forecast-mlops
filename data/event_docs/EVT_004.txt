@@ -3,5 +3,6 @@ sku_id: SKU_010
 date: 2023-05-15
 cause_category: press_coverage
 type: spike
+duration_days: 1
 
 On 2023-05-15, SKU_010 recorded an increase of about 55% in demand after receiving media or press coverage. Featured as an editor's pick in a home decor magazine roundup. Coverage-driven demand usually spikes around the publication date and normalizes within a few days.

@@ -10,7 +10,8 @@ mlflow
 # Agentic AI
 langgraph
 langchain
-langchain-community
+# pinned: 0.4.1+ dropped langchain_community.chat_models.vertexai, which ragas 0.4.3 imports unconditionally
+langchain-community==0.4.0
 langchain-ollama
 
 # Vector store
@@ -20,6 +21,8 @@ sentence-transformers
 # LLM evaluation
 ragas
 datasets
+sacrebleu
+rouge_score
 
 # API
 fastapi

@@ -3,5 +3,6 @@ sku_id: SKU_012
 date: 2024-02-20
 cause_category: viral_social
 type: spike
+duration_days: 2
 
 On 2024-02-20, SKU_012 saw an increase of around 75% in demand following a burst of social media attention. A viral home-organization trend on social media pulled in new buyers. This kind of organic virality is difficult to predict in advance and can fade as quickly as it appears.

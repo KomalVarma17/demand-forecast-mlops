@@ -3,5 +3,6 @@ sku_id: SKU_005
 date: 2024-10-30
 cause_category: weather
 type: spike
+duration_days: 2
 
 On 2024-10-30, SKU_005 experienced an increase of about 75% in demand linked to weather conditions. An early winter storm warning triggered grocery stockpiling. Weather-driven changes are typically regional and correlate with forecasts issued in the days prior.

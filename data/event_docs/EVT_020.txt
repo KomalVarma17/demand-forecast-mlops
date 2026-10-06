@@ -3,5 +3,6 @@ sku_id: SKU_010
 date: 2024-07-04
 cause_category: promotion
 type: spike
+duration_days: 1
 
 On 2024-07-04, SKU_010 saw an increase of roughly 65% in daily demand tied to a promotional event. July 4th outdoor furniture sale drove a one-day spike. Promotions like this are planned by the marketing team and typically produce a short, sharp change in orders that fades once the offer ends.

@@ -3,5 +3,6 @@ sku_id: SKU_008
 date: 2023-08-28
 cause_category: weather
 type: dip
+duration_days: 3
 
 On 2023-08-28, SKU_008 experienced a decrease of about 35% in demand linked to weather conditions. An unseasonal heatwave delayed the usual start of fall clothing demand. Weather-driven changes are typically regional and correlate with forecasts issued in the days prior.

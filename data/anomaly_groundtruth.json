@@ -176,7 +176,7 @@
     "duration_days": 2,
     "type": "spike",
     "magnitude_pct": 50,
-    "cause_category": "promotion",
+    "cause_category": "seasonal_rush",
     "description": "Pre-Christmas grocery rush as shoppers stocked up for holiday gatherings.",
     "affected_dates": [
       "2023-12-23",
@@ -377,7 +377,7 @@
     "duration_days": 1,
     "type": "spike",
     "magnitude_pct": 55,
-    "cause_category": "promotion",
+    "cause_category": "seasonal_rush",
     "description": "Christmas Eve grocery rush drove a single-day spike.",
     "affected_dates": [
       "2024-12-24"

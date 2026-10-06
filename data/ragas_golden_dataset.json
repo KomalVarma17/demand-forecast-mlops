@@ -1,0 +1,277 @@
+[
+  {
+    "sku_id": "SKU_001",
+    "date": "2023-02-14",
+    "reference": "Demand spiked because Valentine's Day flash discount drove a one-day surge in orders."
+  },
+  {
+    "sku_id": "SKU_001",
+    "date": "2023-11-24",
+    "reference": "Demand spiked because Black Friday doorbuster pricing drove the year's largest single-day spike."
+  },
+  {
+    "sku_id": "SKU_001",
+    "date": "2024-11-29",
+    "reference": "Demand spiked because Black Friday doorbuster pricing again drove the year's largest single-day spike."
+  },
+  {
+    "sku_id": "SKU_002",
+    "date": "2023-07-19",
+    "reference": "Demand spiked because Mid-summer clearance event boosted orders for two days."
+  },
+  {
+    "sku_id": "SKU_002",
+    "date": "2023-07-20",
+    "reference": "Demand spiked because Mid-summer clearance event boosted orders for two days."
+  },
+  {
+    "sku_id": "SKU_002",
+    "date": "2024-06-21",
+    "reference": "Demand spiked because Mid-year clearance event boosted single-day orders."
+  },
+  {
+    "sku_id": "SKU_003",
+    "date": "2024-03-14",
+    "reference": "Demand dropped because A firmware bug caused a wave of negative reviews and a drop in new orders."
+  },
+  {
+    "sku_id": "SKU_003",
+    "date": "2024-03-15",
+    "reference": "Demand dropped because A firmware bug caused a wave of negative reviews and a drop in new orders."
+  },
+  {
+    "sku_id": "SKU_003",
+    "date": "2024-03-16",
+    "reference": "Demand dropped because A firmware bug caused a wave of negative reviews and a drop in new orders."
+  },
+  {
+    "sku_id": "SKU_004",
+    "date": "2023-03-10",
+    "reference": "Demand dropped because Regional distributor delay left warehouses short of stock for several days."
+  },
+  {
+    "sku_id": "SKU_004",
+    "date": "2023-03-11",
+    "reference": "Demand dropped because Regional distributor delay left warehouses short of stock for several days."
+  },
+  {
+    "sku_id": "SKU_004",
+    "date": "2023-03-12",
+    "reference": "Demand dropped because Regional distributor delay left warehouses short of stock for several days."
+  },
+  {
+    "sku_id": "SKU_004",
+    "date": "2023-03-13",
+    "reference": "Demand dropped because Regional distributor delay left warehouses short of stock for several days."
+  },
+  {
+    "sku_id": "SKU_004",
+    "date": "2023-12-23",
+    "reference": "Demand spiked because Pre-Christmas grocery rush as shoppers stocked up for holiday gatherings."
+  },
+  {
+    "sku_id": "SKU_004",
+    "date": "2023-12-24",
+    "reference": "Demand spiked because Pre-Christmas grocery rush as shoppers stocked up for holiday gatherings."
+  },
+  {
+    "sku_id": "SKU_004",
+    "date": "2024-12-24",
+    "reference": "Demand spiked because Christmas Eve grocery rush drove a single-day spike."
+  },
+  {
+    "sku_id": "SKU_005",
+    "date": "2023-09-11",
+    "reference": "Demand spiked because Hurricane warning triggered stockpiling of shelf-stable groceries."
+  },
+  {
+    "sku_id": "SKU_005",
+    "date": "2023-09-12",
+    "reference": "Demand spiked because Hurricane warning triggered stockpiling of shelf-stable groceries."
+  },
+  {
+    "sku_id": "SKU_005",
+    "date": "2024-10-30",
+    "reference": "Demand spiked because An early winter storm warning triggered grocery stockpiling."
+  },
+  {
+    "sku_id": "SKU_005",
+    "date": "2024-10-31",
+    "reference": "Demand spiked because An early winter storm warning triggered grocery stockpiling."
+  },
+  {
+    "sku_id": "SKU_006",
+    "date": "2024-04-02",
+    "reference": "Demand dropped because A fire at a regional distribution center halted shipments for nearly a week."
+  },
+  {
+    "sku_id": "SKU_006",
+    "date": "2024-04-03",
+    "reference": "Demand dropped because A fire at a regional distribution center halted shipments for nearly a week."
+  },
+  {
+    "sku_id": "SKU_006",
+    "date": "2024-04-04",
+    "reference": "Demand dropped because A fire at a regional distribution center halted shipments for nearly a week."
+  },
+  {
+    "sku_id": "SKU_006",
+    "date": "2024-04-05",
+    "reference": "Demand dropped because A fire at a regional distribution center halted shipments for nearly a week."
+  },
+  {
+    "sku_id": "SKU_006",
+    "date": "2024-04-06",
+    "reference": "Demand dropped because A fire at a regional distribution center halted shipments for nearly a week."
+  },
+  {
+    "sku_id": "SKU_007",
+    "date": "2023-04-22",
+    "reference": "Demand spiked because A TikTok influencer styling video went viral, driving a two-day demand surge."
+  },
+  {
+    "sku_id": "SKU_007",
+    "date": "2023-04-23",
+    "reference": "Demand spiked because A TikTok influencer styling video went viral, driving a two-day demand surge."
+  },
+  {
+    "sku_id": "SKU_007",
+    "date": "2023-11-24",
+    "reference": "Demand spiked because Black Friday doorbuster pricing drove a large single-day spike."
+  },
+  {
+    "sku_id": "SKU_007",
+    "date": "2024-11-29",
+    "reference": "Demand spiked because Black Friday doorbuster pricing drove a large single-day spike."
+  },
+  {
+    "sku_id": "SKU_008",
+    "date": "2023-08-28",
+    "reference": "Demand dropped because An unseasonal heatwave delayed the usual start of fall clothing demand."
+  },
+  {
+    "sku_id": "SKU_008",
+    "date": "2023-08-29",
+    "reference": "Demand dropped because An unseasonal heatwave delayed the usual start of fall clothing demand."
+  },
+  {
+    "sku_id": "SKU_008",
+    "date": "2023-08-30",
+    "reference": "Demand dropped because An unseasonal heatwave delayed the usual start of fall clothing demand."
+  },
+  {
+    "sku_id": "SKU_008",
+    "date": "2024-09-23",
+    "reference": "Demand spiked because A celebrity was photographed wearing the item, spiking search and orders."
+  },
+  {
+    "sku_id": "SKU_008",
+    "date": "2024-09-24",
+    "reference": "Demand spiked because A celebrity was photographed wearing the item, spiking search and orders."
+  },
+  {
+    "sku_id": "SKU_010",
+    "date": "2023-05-15",
+    "reference": "Demand spiked because Featured as an editor's pick in a home decor magazine roundup."
+  },
+  {
+    "sku_id": "SKU_010",
+    "date": "2024-07-04",
+    "reference": "Demand spiked because July 4th outdoor furniture sale drove a one-day spike."
+  },
+  {
+    "sku_id": "SKU_011",
+    "date": "2023-10-06",
+    "reference": "Demand dropped because Shipping container delays at the port pushed back restocking by nearly a week."
+  },
+  {
+    "sku_id": "SKU_011",
+    "date": "2023-10-07",
+    "reference": "Demand dropped because Shipping container delays at the port pushed back restocking by nearly a week."
+  },
+  {
+    "sku_id": "SKU_011",
+    "date": "2023-10-08",
+    "reference": "Demand dropped because Shipping container delays at the port pushed back restocking by nearly a week."
+  },
+  {
+    "sku_id": "SKU_011",
+    "date": "2023-10-09",
+    "reference": "Demand dropped because Shipping container delays at the port pushed back restocking by nearly a week."
+  },
+  {
+    "sku_id": "SKU_011",
+    "date": "2024-12-15",
+    "reference": "Demand dropped because A safety recall was issued after a small number of units failed inspection."
+  },
+  {
+    "sku_id": "SKU_011",
+    "date": "2024-12-16",
+    "reference": "Demand dropped because A safety recall was issued after a small number of units failed inspection."
+  },
+  {
+    "sku_id": "SKU_011",
+    "date": "2024-12-17",
+    "reference": "Demand dropped because A safety recall was issued after a small number of units failed inspection."
+  },
+  {
+    "sku_id": "SKU_012",
+    "date": "2024-02-20",
+    "reference": "Demand spiked because A viral home-organization trend on social media pulled in new buyers."
+  },
+  {
+    "sku_id": "SKU_012",
+    "date": "2024-02-21",
+    "reference": "Demand spiked because A viral home-organization trend on social media pulled in new buyers."
+  },
+  {
+    "sku_id": "SKU_013",
+    "date": "2023-06-01",
+    "reference": "Demand dropped because Voluntary recall issued after a packaging defect was reported by customers."
+  },
+  {
+    "sku_id": "SKU_013",
+    "date": "2023-06-02",
+    "reference": "Demand dropped because Voluntary recall issued after a packaging defect was reported by customers."
+  },
+  {
+    "sku_id": "SKU_013",
+    "date": "2023-06-03",
+    "reference": "Demand dropped because Voluntary recall issued after a packaging defect was reported by customers."
+  },
+  {
+    "sku_id": "SKU_013",
+    "date": "2024-08-15",
+    "reference": "Demand dropped because A key raw-material supplier fell behind on deliveries, constraining production."
+  },
+  {
+    "sku_id": "SKU_013",
+    "date": "2024-08-16",
+    "reference": "Demand dropped because A key raw-material supplier fell behind on deliveries, constraining production."
+  },
+  {
+    "sku_id": "SKU_013",
+    "date": "2024-08-17",
+    "reference": "Demand dropped because A key raw-material supplier fell behind on deliveries, constraining production."
+  },
+  {
+    "sku_id": "SKU_013",
+    "date": "2024-08-18",
+    "reference": "Demand dropped because A key raw-material supplier fell behind on deliveries, constraining production."
+  },
+  {
+    "sku_id": "SKU_014",
+    "date": "2023-10-31",
+    "reference": "Demand spiked because Halloween-themed makeup bundle sold out its promotional run in a single day."
+  },
+  {
+    "sku_id": "SKU_015",
+    "date": "2024-05-10",
+    "reference": "Demand spiked because A celebrity endorsement post drove a two-day surge in demand."
+  },
+  {
+    "sku_id": "SKU_015",
+    "date": "2024-05-11",
+    "reference": "Demand spiked because A celebrity endorsement post drove a two-day surge in demand."
+  }
+]

@@ -14,6 +14,12 @@ TEMPLATES = {
         "planned by the marketing team and typically produce a short, sharp change in "
         "orders that fades once the offer ends."
     ),
+    "seasonal_rush": (
+        "On {date}, {sku_id} saw {article} {noun} of roughly {magnitude_pct}% in daily "
+        "demand from organic shopper behavior, not a company promotion. {description} "
+        "This kind of seasonal stockpiling is driven by customers themselves and "
+        "typically fades right after the holiday it precedes."
+    ),
     "stockout": (
         "On {date}, {sku_id} experienced {article} {noun} of about {magnitude_pct}% in "
         "recorded demand due to a stockout. {description} Because units were not "
@@ -67,7 +73,7 @@ def render_doc(event: dict) -> str:
 
     header = "\n".join(
         f"{key}: {event[key]}"
-        for key in ("event_id", "sku_id", "date", "cause_category", "type")
+        for key in ("event_id", "sku_id", "date", "cause_category", "type", "duration_days")
     )
     return f"{header}\n\n{body}\n"
 
